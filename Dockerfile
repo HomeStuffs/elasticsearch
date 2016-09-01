@@ -1,2 +1,2 @@
-FROM elasticsearch
+FROM elasticsearch-base
 
